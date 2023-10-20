@@ -2,7 +2,7 @@ Steps to use this module:
 
 install by typing "npm i typeitjs" in command line
 
-open typeit.js
+open typeing.js
 
 In object named params, edit value of key 'strings' and add as many strings as you want to type.
 If you want continuous typing effect, leave value of key 'loop' as it is else make it false.
