@@ -1,3 +1,6 @@
+This module is for including typing effect in your website.
+
+
 Steps to use this module:
 
 install by typing "npm i typeitjs" in command line
