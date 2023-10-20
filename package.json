@@ -1,0 +1,33 @@
+{
+  "name": "typedjs",
+  "version": "1.0.0",
+  "description": "This is a package for adding typing effect in HTML document",
+  "main": "typing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atrithakar/TypeIt.git"
+  },
+  "keywords": [
+    "type",
+    "it",
+    "Type",
+    "It",
+    "TypeIt",
+    "typeit",
+    "atri",
+    "thakar",
+    "thaker",
+    "js",
+    "typeitjs",
+    "TypeItJs"
+  ],
+  "author": "Atri Thakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atrithakar/TypeIt/issues"
+  },
+  "homepage": "https://github.com/atrithakar/TypeIt#readme"
+}
