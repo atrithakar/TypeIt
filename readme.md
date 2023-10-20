@@ -1,6 +1,6 @@
 Steps to use this module:
 
-install by typing "npm i typeit" in command line
+install by typing "npm i typeitjs" in command line
 
 open typeit.js
 
