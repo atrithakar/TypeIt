@@ -12,10 +12,7 @@ Then include the script like this:
     <script src="typing.js"></script>
 
 
-Your overall HTML document should look like this:
 
-<body>
-    <div id="output"></div>
-    <script src="typing.js"></script>
-</body>
+
+
 
