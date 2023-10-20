@@ -1,5 +1,5 @@
 {
-  "name": "typedjs",
+  "name": "typeitjs",
   "version": "1.0.0",
   "description": "This is a package for adding typing effect in HTML document",
   "main": "typing.js",

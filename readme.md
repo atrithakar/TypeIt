@@ -1,5 +1,7 @@
 Steps to use this module:
 
+install by typing "npm i typeit" in command line
+
 open typeit.js
 
 In object named params, edit value of key 'strings' and add as many strings as you want to type.
